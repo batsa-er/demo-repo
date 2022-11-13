@@ -10,4 +10,8 @@ watch this on twitter
 
 1. Open index.html in your browser
 
-2 Open sans
+2 Open sans.
+
+## Local DEv
+
+1. Open lets see
